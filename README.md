@@ -1,1 +1,2 @@
 # No-Sabo
+Welcome to No Sabo the spanish to english translation game were you try to translate and pronounce english words to spanish correctly. The team with the most points or to the target score wins is a Si Sabemos, the losers will now be known as the No Sabos. You will have an adjustable timer from 15 (hard) to 45 seconds (easy) to translate correctly, if the team answers incorrectly the opposing team have 10 seconds to answer correctly.
