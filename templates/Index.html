@@ -1,11 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns:th="http://www.thymeleaf.org" xmlns:sec="http://www.thymeleaf.org/extras/spring-security">
+
 <head>
     <meta charset="UTF-8">
     <title>No Sabo</title>
+    <link rel="stylesheet" type="text/css" href="../static/css/style.css" th:href="@{/css/style.css}"/>>
 </head>
 <body>
-    <div class="logo">No Sabo</div>
+<nav th:replace="partials :: navbar"></nav>
+<main ></main>
+    <h1 class="logo">No Sabo</h1>
     <div class="welcome">Hello, welcome to No Sabo the game of Spanish wits!</div><br>
     <div class="explain">Let's see if you know your spanish with a couple of words that you will </div>
 </body>
