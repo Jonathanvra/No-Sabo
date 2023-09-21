@@ -1,0 +1,21 @@
+body {
+    background-image: url("../img/background.png");
+    background-size: cover;
+    /*margin-top:em;*/
+    background-repeat: no-repeat;
+}
+.navbar-light{
+    background-color: rgba(255, 255, 255, .5)
+}
+.title {
+    text-align: center;
+    margin-top: .25em;
+}
+.container{
+    justify-content: center;
+    margin-top: 3em;
+    border: black 2px solid;
+    padding-left: 2em;
+    padding-right: 2em;
+
+}
